@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://tenor.com/pt-BR/view/dog-boy-with-boy-hat-gif-9795674429359838027"  />
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHd3NGUwcWlmczhkdmcwbDg0eGw2Ynlxd2RrdXk4MWtpYjg1YXllcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vjTMmCZX7qVzFzO9K3/giphy.gif"  />
 </div>
 
 ###
